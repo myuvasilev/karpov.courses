@@ -13,10 +13,11 @@
 3. Мы столкнулись с резким снижением активных пользователей! Требуется выяснить, какие группы пользователей испытывают проблемы с доступом к приложению и что объединяет их.
 - [Исследование возможных причин снижения](https://github.com/myuvasilev/karpov.courses/blob/main/Product_metrics_analysis/dau_drop_1.png)
 - [Обнаружение причины](https://github.com/myuvasilev/karpov.courses/blob/main/Product_metrics_analysis/dau_drop_2.png)
-- [Наглядное доказательство и вывод](https://github.com/myuvasilev/karpov.courses/blob/main/Product_metrics_analysis/dau_drop_3.png)
+- [Доказательство и вывод](https://github.com/myuvasilev/karpov.courses/blob/main/Product_metrics_analysis/dau_drop_3.png)
 
 4. Необходимо построить график, отображающий активную аудиторию по неделям, для каждой недели выделим три типа пользователей.
 - Новые — первая активность в ленте была на этой неделе.
 - Старые — активность была и на этой, и на прошлой неделе.
 - Ушедшие — активность была на прошлой неделе, на этой не было.
+- 
 [Активная аудитория по неделям](https://github.com/myuvasilev/karpov.courses/blob/main/Product_metrics_analysis/audience_by_week.png)
